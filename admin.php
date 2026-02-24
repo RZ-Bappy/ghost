@@ -206,7 +206,7 @@ if (!isset($_SESSION['authenticated']) || $_SESSION['authenticated'] !== true) {
     <body>
         <div class="login-container">
             <div class="logo">🟣</div>
-            <h2>Unknown</h2>
+            <h2>GHOSTRZ</h2>
             <div class="subtitle">Holy Fucking Shit</div>
             
             <?php if (isset($login_error)): ?>
